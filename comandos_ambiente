@@ -1,0 +1,1 @@
+conda create --name alura_pandas  python=3.6 pandas=0.22
